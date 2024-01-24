@@ -2,3 +2,4 @@ kawaemon test
 Hello!! I'm KAIMEI
 Onononiina
 soutaaibara
+I can edit
